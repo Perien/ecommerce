@@ -182,9 +182,9 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../index.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v1</p>
+                <a href="/admin/users" class="nav-link">
+                  <i class="fas fa-users"></i>
+                  <p>Usuários</p>
                 </a>
               </li>
               <li class="nav-item">
